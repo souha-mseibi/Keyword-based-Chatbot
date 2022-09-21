@@ -6,3 +6,5 @@ Keyword-based chatbot use customizable keywords and NLP to detect action trigger
 
 
 # Installation 
+'''python 
+pip install tensorflow
