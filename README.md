@@ -6,5 +6,33 @@ Keyword-based chatbot use customizable keywords and NLP to detect action trigger
 
 
 # Installation 
-'''python 
-pip install tensorflow
+
+``` 
+https://github.com/souha-mseibi/Keyword-based-Chatbot.git
+``` 
+
+# Installation 
+Install dependencies
+
+``` 
+pip install Flask tensorflow keras NLTK
+``` 
+Install nltk package
+
+``` 
+python 
+>>> import nltk
+>>> nltk.download('punkt')
+``` 
+```intents.json``` contain different intents and responses
+
+To train the model and save it , you can run :
+```
+python train.py
+```
+Run the following command to test it in the console
+```
+python chat.py
+```
+Finally you can run the next command to deploy 
+
