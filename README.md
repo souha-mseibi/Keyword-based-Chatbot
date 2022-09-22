@@ -6,12 +6,12 @@ Keyword-based chatbot use customizable keywords and NLP to detect action trigger
 
 
 # Installation 
+Clone the repo : 
 
 ``` 
 https://github.com/souha-mseibi/Keyword-based-Chatbot.git
 ``` 
 
-# Installation 
 Install dependencies
 
 ``` 
