@@ -24,7 +24,7 @@ python
 >>> import nltk
 >>> nltk.download('punkt')
 ``` 
-```intents.json``` contain different intents and responses
+```intents.json``` contain different intents and responses , you can customize it
 
 To train the model and save it , you can run :
 ```
@@ -34,5 +34,5 @@ Run the following command to test it in the console
 ```
 python chat.py
 ```
-Finally you can run the next command to deploy 
+
 
